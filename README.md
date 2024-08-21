@@ -1,5 +1,7 @@
-# capstone451R
+# Team: Easy A
+
 Capstone project for UMKC 451R
+
 #### Group mates: 
 - Jordan Taranto
 - Carolyn Knapp
